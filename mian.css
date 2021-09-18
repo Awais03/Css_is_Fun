@@ -1,0 +1,80 @@
+body{
+    font-family: "Lato", sans-serif;
+    max-width: 620px;
+    width: 80%;
+    text-align: left;
+    margin-inline-start: 2.5em;
+    margin: 0 auto;
+    border-bottom: 0px;
+    line-height: 1.6;
+}
+h1{
+    font-size: 36px;
+    background-color: #2e354f;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    padding-left: 40px;
+}
+h2{
+    font-size: 24px;
+    color: rgb(253, 111, 59);
+    padding-top: 20px;
+    padding-left: 40px;
+}
+img{
+    max-width: 540px;
+    padding-left: 40px;
+}
+.top-content{
+    color:rgb(56, 56, 56);
+    padding-left: 40px;
+}
+.top-content a{
+    color: rgb(253, 111, 59);
+    
+}
+.section-two{
+    background: #2e354f;
+    padding-bottom: 30px;
+}
+h3{
+    font-size: 24px;
+    color:  rgb(253, 111, 59);
+    padding-left: 40px;
+    padding-top: 35px;
+    padding-bottom: 0px;
+}
+p{
+    max-width: 540px;
+    padding-left: 40px;
+    color: white;
+
+}
+.section-two a{
+    color: rgb(253, 111, 59);
+}
+.btn-one{
+    padding: 10px 20px;
+    background: rgb(253, 111, 59);
+    color: white;
+    margin:0px 10px 0px 40px;
+    font-weight: bold;
+}
+.btn-two{
+    padding: 10px 20px;
+    background: white;
+    color: black;
+    font-weight: bold;
+}
+.btn-one:hover,
+.btn-one:focus,
+.btn-two:hover,
+.btn-two:focus{
+    color:blue ;
+}
+a:hover,
+a:focus{
+    color: blue;
+}
